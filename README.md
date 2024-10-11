@@ -1,1 +1,1 @@
-# BIT-Website
+# College-Website
